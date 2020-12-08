@@ -82,7 +82,16 @@ work in the familiar way.
 In the next few lessons, we're going to introduce the **Essential Three
 Expressions**:
 
-![Three Essential Expression](https://curriculum-content.s3.amazonaws.com/programming-univbasics/expression-and-evaluation-defined/Image_86_EssentialExpressions.png)
+| Expression | Examples |
+|------------|----------|
+| Constant | 13 //=> 13 |
+|| "Hello" //=> "Hello" |
+| Assignment | x = 3     //=> 3  |
+|| y = 1 + 3 //=> 4 |
+|| z = "Hi"  //=> "Hi" |
+| Variable Lookup | x //=> 3 |
+|| y //=> 4 |
+|| z //=> "Hi" |
 
 1. The constant expression
 2. The assignment expression (variable assignment)
