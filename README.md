@@ -82,7 +82,7 @@ work in the familiar way.
 In the next few lessons, we're going to introduce the **Essential Three
 Expressions**:
 
-![Three Essential Expression](https://curriculum-content.s3.amazonaws.com/programming-univbasics/expression-and-evaluation-defined/Image_86_EssentialExpressions.png)
+![Three Essential Expression](https://curriculum-content.s3.amazonaws.com/phase-0/defining-expression-and-evaluation/three_essential_expressions.jpg)
 
 1. The constant expression
 2. The assignment expression (variable assignment)
