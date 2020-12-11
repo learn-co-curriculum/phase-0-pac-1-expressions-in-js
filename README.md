@@ -1,11 +1,12 @@
-# Defining Expression and Evaluation
+# Expressions in JavaScript
 
 ## Learning Goals
 
 * Define "Expression"
+* Define "Evaluation"
+* Expression and Evaluation with JavaScript
 * Identify the Parts of an Expression
 * Identify Core Operators in JavaScript
-* Define "Evaluation"
 
 ## Introduction
 
@@ -28,7 +29,7 @@ another.
 We've been imprecise in defining "expression" while we were getting the hang of
 it. Let's propose formal definitions for _expression_ and _evaluation_.
 
-## Define Expression
+## Define "Expression"
 
 An expression in a programming language is like a sentence in a spoken language.
 
@@ -53,7 +54,7 @@ _data_? Which parts are _operators_?
 
 > *PRO-TIP*: Think it through yourself. Which is a given thing (_data_) and which parts tell you how to combine things (_operators_)?  When reading technical documents you can't simply read the answers, you ***have to think along*** in order to learn. Active participation tells your brain that this stuff is important!
 
-## Identify the Parts of an "Expression"
+## Identify the Parts of an Expression
 
 The _data_ are: `255` and `5`
 The _operator_: is `/`
@@ -82,7 +83,7 @@ work in the familiar way.
 In the next few lessons, we're going to introduce the **Essential Three
 Expressions**:
 
-![Three Essential Expression](https://curriculum-content.s3.amazonaws.com/phase-0/defining-expression-and-evaluation/three_essential_expressions.jpg)
+![Three Essential Expression](https://curriculum-content.s3.amazonaws.com/phase-0/expressions-in-javascript/essential-3-expressions.jpg)
 
 1. The constant expression
 2. The assignment expression (variable assignment)
