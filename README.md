@@ -94,6 +94,8 @@ on these Essential Three Expressions.***
 
 ## Resources
 
+* MDN
+  * [Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions)
 * [Read-evaluate-print loop][repl]
 
 [repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
