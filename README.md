@@ -20,11 +20,10 @@ bottom box.
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-> NOTE: We encourage you to experiment with this and other code examples provided in the REPL. In order to do so you will need to create an account. If you click on the equation and try to edit it, a modal will open that will enable you to do that. Once you've signed up, the REPL will be forked into your account. This will allow you to make changes and click the play button to see the results.
+> **Note:** We encourage you to experiment with this and other code examples provided in the REPL. In order to do so, you will need to click "open in repl.it" in the upper right corner of the REPL window, which will open the REPL in a new browser tab. You will also need to create a free account. Once you've done that, you will be able to fork the REPL to your account and make changes.
 
 Conversations, we've seen, are the things that result when two individuals
-&mdash; be they human or machine &mdash; communicate _expressions_ to one
-another.
+— be they human or machine — communicate _expressions_ to one another.
 
 We've been imprecise in defining "expression" while we were getting the hang of
 it. Let's propose formal definitions for _expression_ and _evaluation_.
