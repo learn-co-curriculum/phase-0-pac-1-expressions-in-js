@@ -20,7 +20,7 @@ bottom box.
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-> **Note:** We encourage you to experiment with this and other code examples provided in the REPL. In order to do so, you will need to click "open in repl.it" in the upper right corner of the REPL window, which will open the REPL in a new browser tab. You will also need to create a free account. Once you've done that, you will be able to fork the REPL to your account and make changes.
+> **Note:** We encourage you to experiment with this and other code examples provided in the REPL. In order to do so, you will need to click "open in repl.it" in the upper right corner of the REPL window, which will open it in a new browser tab. You will also need to create a free account. Once you've done that, you will be able to fork the REPL to your account and make changes to try things out.
 
 Conversations, we've seen, are the things that result when two individuals
 — be they human or machine — communicate _expressions_ to one another.
