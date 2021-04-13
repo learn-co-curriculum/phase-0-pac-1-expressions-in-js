@@ -15,7 +15,7 @@ JavaScript. This tool is known as a REPL, short for [Read Evaluate Print
 Loop][repl]. Code written in the top box will be read and evaluated. The
 response, whatever is returned, will appear in the bottom box. For example,
 below we have a REPL with a math equation, `10 + 10`, prewritten inside. If you
-click the play button above the equation, you should see `20` appear in the
+click the button with the play symbol `▶` above the equation, you should see `20` appear in the
 bottom box.
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
