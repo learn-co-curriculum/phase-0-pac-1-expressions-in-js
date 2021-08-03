@@ -107,6 +107,16 @@ work in the familiar way.
   </tr>
 </table>
 
+| Operator | Operation | Note |
+| --- | --- | --- |
+| `+` | Addition |  |
+| `-` | Subtraction |  |
+| `*` | Multiplication | We use `*` instead of `×` because it looks like x-the-letter |
+| `/` | Division | We use `/` instead of `÷` because that's not on a keyboard |
+| `**` | Exponentiation | We use `**` instead of `^` because `^` means something else in programming languages |
+| `()` | Association | Expressions inside of `()` get evaluated earlier |
+
+
 ## Conclusion
 
 In the next few lessons, we're going to introduce the **Essential Three
