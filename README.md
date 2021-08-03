@@ -68,45 +68,6 @@ Here's a table of other operators and their operations. While some of the
 symbols used are different from their mathematical counterparts, the operations
 work in the familiar way.
 
-<table border="1" cellpadding="4" cellspacing="0">
-  <tr>
-    <th>Operator</th>
-    <th>Operation</th>
-    <th>Note</th>
-  </tr>
-  
-  <tr>
-    <td><code>+</code></td>
-    <td>Addition</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><code>-</code></td>
-    <td>Subtraction</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><code>*</code></td>
-    <td>Multiplication</td>
-    <td>We use <code>*</code> instead of <code>×</code> because it looks like <code>x</code>-the-letter</td>
-  </tr>
-  <tr>
-    <td><code>/</code></td>
-    <td>Division</td>
-    <td>We use <code>/</code> instead of <code>÷</code> because that's not on a keyboard</td>
-  </tr>
-  <tr>
-    <td><code>**</code></td>
-    <td>Exponentiation</td>
-    <td>We use <code>**</code> instead of <code>^</code> because <code>^</code> means something else in programming languages</td>
-  </tr>
-  <tr>
-    <td><code>()</code></td>
-    <td>Association</td>
-    <td>Expressions inside of <code>()</code> get evaluated earlier</td>
-  </tr>
-</table>
-
 | Operator | Operation | Note |
 | --- | --- | --- |
 | `+` | Addition |  |
@@ -115,7 +76,6 @@ work in the familiar way.
 | `/` | Division | We use `/` instead of `÷` because that's not on a keyboard |
 | `**` | Exponentiation | We use `**` instead of `^` because `^` means something else in programming languages |
 | `()` | Association | Expressions inside of `()` get evaluated earlier |
-
 
 ## Conclusion
 
