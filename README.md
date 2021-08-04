@@ -2,11 +2,11 @@
 
 ## Learning Goals
 
-* Define "Expression"
-* Define "Evaluation"
-* Expression and Evaluation with JavaScript
-* Identify the Parts of an Expression
-* Identify Core Operators in JavaScript
+- Define "Expression"
+- Define "Evaluation"
+- Expression and Evaluation with JavaScript
+- Identify the Parts of an Expression
+- Identify Core Operators in JavaScript
 
 ## Introduction
 
@@ -15,15 +15,20 @@ JavaScript. This tool is known as a REPL, short for [Read Evaluate Print
 Loop][repl]. Code written in the top box will be read and evaluated. The
 response, whatever is returned, will appear in the bottom box. For example,
 below we have a REPL with a math equation, `10 + 10`, prewritten inside. If you
-click the button with the play symbol `▶` above the equation, you should see `20` appear in the
-bottom box.
+click the button with the play symbol `▶` above the equation, you should see
+`20` appear in the bottom box.
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-> **Note:** We encourage you to experiment with this and other code examples provided in the REPL. In order to do so, you will need to click "open in repl.it" in the upper right corner of the REPL window, which will open it in a new browser tab. You will also need to create a free account. Once you've done that, you will be able to fork the REPL to your account and make changes to try things out.
+> **Note:** We encourage you to experiment with this and other code examples
+> provided in the REPL. In order to do so, you will need to click "open in
+> repl.it" in the upper right corner of the REPL window, which will open it in a
+> new browser tab. You will also need to create a free account. Once you've done
+> that, you will be able to fork the REPL to your account and make changes to
+> try things out.
 
-Conversations, we've seen, are the things that result when two individuals
-— be they human or machine — communicate _expressions_ to one another.
+Conversations, we've seen, are the things that result when two individuals — be
+they human or machine — communicate _expressions_ to one another.
 
 We've been imprecise in defining "expression" while we were getting the hang of
 it. Let's propose formal definitions for _expression_ and _evaluation_.
@@ -38,7 +43,8 @@ weapons and a man, an outcast of Troy who was driven to the shores of Italy..."
 Some expressions are simple: `2`. Some expressions are complex `1 + 2`. Some
 expressions are _really_ complex: `10 + (3 * ( (-1) ** 3) + 2) / 18`.
 
-> **Definition**: Expression: A combination of information, called _data_, and _symbols_ indicating how to combine _data_, called _operators_.
+> **Definition**: Expression: A combination of information, called _data_, and
+> _symbols_ indicating how to combine _data_, called _operators_.
 
 ## Define "Evaluation"
 
@@ -48,14 +54,19 @@ to produce a return value.
 ## Expression and Evaluation with JavaScript
 
 These definitions should align with your experience of having a conversation
-with REPLs so far. Think about `255 / 5`.  Which parts of the expression are
+with REPLs so far. Think about `255 / 5`. Which parts of the expression are
 _data_? Which parts are _operators_?
 
-> *PRO-TIP*: Think it through yourself. Which is a given thing (_data_) and which parts tell you how to combine things (_operators_)?  When reading technical documents you can't simply read the answers, you ***have to think along*** in order to learn. Active participation tells your brain that this stuff is important!
+> **Pro-tip**: Think it through yourself. Which is a given thing (_data_) and
+> which parts tell you how to combine things (_operators_)? When reading
+> technical documents you can't simply read the answers, you **_have to think
+> along_** in order to learn. Active participation tells your brain that this
+> stuff is important!
 
 ## Identify the Parts of an Expression
 
 The _data_ are: `255` and `5`
+
 The _operator_: is `/`
 
 In this example, there is only one operator. It's certainly possible for
@@ -68,14 +79,14 @@ Here's a table of other operators and their operations. While some of the
 symbols used are different from their mathematical counterparts, the operations
 work in the familiar way.
 
-| Operator | Operation | Note |
-| --- | --- | --- |
-| `+` | Addition |  |
-| `-` | Subtraction |  |
-| `*` | Multiplication | We use `*` instead of `×` because it looks like x-the-letter |
-| `/` | Division | We use `/` instead of `÷` because that's not on a keyboard |
-| `**` | Exponentiation | We use `**` instead of `^` because `^` means something else in programming languages |
-| `()` | Association | Expressions inside of `()` get evaluated earlier |
+| Operator | Operation      | Note                                                                                 |
+| -------- | -------------- | ------------------------------------------------------------------------------------ |
+| `+`      | Addition       |                                                                                      |
+| `-`      | Subtraction    |                                                                                      |
+| `*`      | Multiplication | We use `*` instead of `×` because it looks like x-the-letter                         |
+| `/`      | Division       | We use `/` instead of `÷` because that's not on a keyboard                           |
+| `**`     | Exponentiation | We use `**` instead of `^` because `^` means something else in programming languages |
+| `()`     | Association    | Expressions inside of `()` get evaluated earlier                                     |
 
 ## Conclusion
 
@@ -88,13 +99,13 @@ Expressions**:
 2. The assignment expression (variable assignment)
 3. The variable lookup expression
 
-***All expressions, which are the core of every programming language, are built
-on these Essential Three Expressions.***
+**_All expressions, which are the core of every programming language, are built
+on these Essential Three Expressions._**
 
 ## Resources
 
-* MDN
-  * [Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions)
-* [Read-evaluate-print loop][repl]
+- MDN
+  - [Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions)
+- [Read-evaluate-print loop][repl]
 
 [repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
