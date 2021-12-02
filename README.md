@@ -37,8 +37,9 @@ it. Let's propose formal definitions for _expression_ and _evaluation_.
 
 An expression in a programming language is like a sentence in a spoken language.
 
-Some sentences are simple: "He wept." Some sentences are complex: "I sing of
-weapons and a man, an outcast of Troy who was driven to the shores of Italy..."
+Some sentences are simple: "Hello, world." Some sentences are complex: "Only by
+learning to live in harmony with your contradictions can you keep it all
+afloat."[-Audrey Lorde](https://www.poetryfoundation.org/poets/audre-lorde)
 
 Some expressions are simple: `2`. Some expressions are complex `1 + 2`. Some
 expressions are _really_ complex: `10 + (3 * ( (-1) ** 3) + 2) / 18`.
