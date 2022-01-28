@@ -12,12 +12,13 @@
 
 Previously, we saw a tool that allowed us to have a conversation with
 JavaScript. This tool is known as a REPL, short for [Read Evaluate Print
-Loop][repl]. Code written will be read and evaluated, and the response is
-whatever is returned on the next line. For example, below in the REPL
-write the math equation, `10 + 10`. Then hit your `enter` key, and you should see
-`20` appear on the bottom line.
+Loop][repl]. Code written in the top box will be read and evaluated. The
+response, whatever is returned, will appear in the bottom box. For example,
+below we have a REPL with a math equation, `10 + 10`, prewritten inside. If you
+click the button with the play symbol `▶` above the equation, you should see
+`20` appear in the bottom box.
 
-<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 > **Note:** We encourage you to experiment with this and other code examples
 > provided in the REPL. In order to do so, you will need to click "open in
