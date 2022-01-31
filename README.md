@@ -10,28 +10,35 @@
 
 ## Introduction
 
-Previously, we saw a tool that allowed us to have a conversation with
-JavaScript. This tool is known as a REPL, short for [Read Evaluate Print
-Loop][repl]. Code written in the top box will be read and evaluated. The
-response, whatever is returned, will appear in the bottom box. For example,
-below we have a REPL with a math equation, `10 + 10`, prewritten inside. If you
-click the button with the play symbol `▶` above the equation, you should see
-`20` appear in the bottom box.
-
-<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/BumpySereneMicroinstruction?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
-> **Note:** We encourage you to experiment with this and other code examples
-> provided in the REPL. In order to do so, you will need to click "open in
-> repl.it" in the upper right corner of the REPL window, which will open it in a
-> new browser tab. You will also need to create a free account. Once you've done
-> that, you will be able to fork the REPL to your account and make changes to
-> try things out.
-
 Conversations, we've seen, are the things that result when two individuals — be
 they human or machine — communicate _expressions_ to one another.
 
 We've been imprecise in defining "expression" while we were getting the hang of
-it. Let's propose formal definitions for _expression_ and _evaluation_.
+it. In this lesson, we'll propose formal definitions for _expression_ and
+_evaluation_.
+
+### Practice Practice Practice
+
+Previously, we saw a tool that allowed us to have a conversation with
+JavaScript. This tool is known as a REPL, short for [Read Evaluate Print
+Loop][repl]. As we've seen, we can type in an expression in the console and the
+response, whatever is returned, will be printed below it. For example, if you
+type `10 + 10` in the console below and press enter, you should see `20` appear
+underneath.
+
+<iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+We stronly encourage you to experiment with this and other code examples as you
+work through the curriculum. To this end, we recommend that you open a free
+account at [replit.com][] so you always have a repl available. This will enable
+you to experiment with code from the lessons and to try coming up with your own
+examples. The more you code, the more you'll learn!
+
+**Note**: if you go to [replit.com][], you'll see that it opens with two windows
+rather than just one. The window on the left is the code window; you can
+disregard it for now. We'll start using that in a later lesson. The window on
+the right is the console window, which functions in the same way as the embedded
+repl above.
 
 ## Define "Expression"
 
@@ -110,3 +117,4 @@ on these Essential Three Expressions._**
 - [Read-evaluate-print loop][repl]
 
 [repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+[replit.com]: https://replit.com/languages/javascript
