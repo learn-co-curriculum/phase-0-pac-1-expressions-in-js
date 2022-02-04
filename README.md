@@ -28,7 +28,7 @@ underneath.
 
 <iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-We stronly encourage you to experiment with this and other code examples as you
+We strongly encourage you to experiment with this and other code examples as you
 work through the curriculum. To this end, we recommend that you open a free
 account at [replit.com][] so you always have a repl available. This will enable
 you to experiment with code from the lessons and to try coming up with your own
