@@ -26,8 +26,8 @@ response, whatever is returned, will be printed below it. For example, if you
 type `10 + 10` in the console below and press enter, you should see `20` appear
 underneath.
 
-> Remember to hit the x at the top right corner of the console to clear out any
-> old code you may have in there!
+> Remember to hit the "play" button at the top of the replit window to reset the
+> console and clear out any old code you may have in there!
 
 <iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
