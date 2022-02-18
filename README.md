@@ -26,14 +26,14 @@ response, whatever is returned, will be printed below it. For example, if you
 type `10 + 10` in the console below and press enter, you should see `20` appear
 underneath.
 
-> Remember you can hit the "play" button at the top of the replit window to reset
+> Remember you can hit the "run" button at the top of the window to reset
 > the console and clear out any old code you may have in there!
 
 <iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 We strongly encourage you to experiment with this and other code examples as you
 work through the curriculum. To this end, we recommend that you open [replit.com][]
-when you're working so you always have a repl available. This will enable you to
+when you're working so you always have a REPL available. This will enable you to
 experiment with code from the lessons and to try coming up with your own examples.
 The more you code, the more you'll learn!
 
@@ -41,7 +41,7 @@ The more you code, the more you'll learn!
 rather than just one. The window on the left is the code window. You can
 disregard it for now — we'll start using that in a later lesson. The window on
 the right is the console window, which functions in the same way as the embedded
-repl above.
+REPL above.
 
 ## Define "Expression"
 
