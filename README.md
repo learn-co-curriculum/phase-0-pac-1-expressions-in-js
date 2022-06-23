@@ -29,7 +29,7 @@ underneath.
 > Remember you can hit the "run" button at the top of the window to reset
 > the console and clear out any old code you may have in there!
 
-<iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?embed=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 We strongly encourage you to experiment with this and other code examples as you
 work through the curriculum. To this end, we recommend that you open [replit.com][]
