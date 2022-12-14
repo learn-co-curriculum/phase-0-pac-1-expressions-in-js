@@ -1,9 +1,5 @@
 ---
 :lessons:
-- :id: 68375
-  :course_id: 3280
-  :canvas_url: https://learning.flatironschool.com/courses/3280/pages/expressions-in-javascript
-  :type: page
 - :id: 233798
   :course_id: 6602
   :canvas_url: https://learning.flatironschool.com/courses/6602/pages/expressions-in-javascript
